@@ -8,8 +8,6 @@ footer: false
 header: false
 ---
 
-These Terms of Use are effective as of April 30th, 2014.
-
 ###1. Terms###
 By utilizing the Iron Battles application, you are agreeing to be bound by these Terms of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this application. The materials contained in the application are protected by applicable copyright and trademark law.
 
