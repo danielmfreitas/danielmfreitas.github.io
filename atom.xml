@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Iron Battles]]></title>
-  <link href="http://www.ironbattles.com/atom.xml" rel="self"/>
-  <link href="http://www.ironbattles.com/"/>
-  <updated>2014-05-20T21:03:56-04:00</updated>
-  <id>http://www.ironbattles.com/</id>
+  <link href="http://danielmfreitas.github.io/atom.xml" rel="self"/>
+  <link href="http://danielmfreitas.github.io/"/>
+  <updated>2014-05-20T22:02:13-04:00</updated>
+  <id>http://danielmfreitas.github.io/</id>
   <author>
     <name><![CDATA[Daniel Freitas]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Welcome to Iron Battles]]></title>
-    <link href="http://www.ironbattles.com/blog/2014/05/20/welcome-to-iron-battles/"/>
+    <link href="http://danielmfreitas.github.io/blog/2014/05/20/welcome-to-iron-battles/"/>
     <updated>2014-05-20T18:50:32-04:00</updated>
-    <id>http://www.ironbattles.com/blog/2014/05/20/welcome-to-iron-battles</id>
+    <id>http://danielmfreitas.github.io/blog/2014/05/20/welcome-to-iron-battles</id>
     <content type="html"><![CDATA[<h1>Test. This is a TEST!</h1>
 
 <h2>Test. This is a TEST!</h2>
