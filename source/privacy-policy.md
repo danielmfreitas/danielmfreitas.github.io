@@ -21,7 +21,7 @@ We use Google Maps API to enhance the Iron Battles application. Please, see <a h
 
 ###3. Contact###
 
-If you have any questions or concerns about our privacy policies, please contact us at support@ironbattles.com
+If you have any questions or concerns about our privacy policies, please contact us at support@ironbattles.com.
 
 ###4. Analytics tracking###
 
