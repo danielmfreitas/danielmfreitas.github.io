@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.ironbattles.com/sitemap.xml 
+Sitemap: http://danielmfreitas.github.io/sitemap.xml 

@@ -1,35 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://www.ironbattles.com/blog/2014/05/20/welcome-to-iron-battles/</loc>
+        <loc>http://danielmfreitas.github.io/blog/2014/05/20/welcome-to-iron-battles/</loc>
         <lastmod>2014-05-20T20:30:07-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.ironbattles.com/404.html</loc>
+        <loc>http://danielmfreitas.github.io/404.html</loc>
         <lastmod>2014-05-20T23:24:58-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.ironbattles.com/blog/archives/</loc>
+        <loc>http://danielmfreitas.github.io/blog/archives/</loc>
         <lastmod>2014-05-20T20:30:07-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.ironbattles.com/blog/</loc>
+        <loc>http://danielmfreitas.github.io/blog/</loc>
         <lastmod>2014-05-20T20:30:07-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.ironbattles.com/</loc>
+        <loc>http://danielmfreitas.github.io/</loc>
         <lastmod>2014-05-20T23:28:22-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.ironbattles.com/privacy-policy.html</loc>
+        <loc>http://danielmfreitas.github.io/privacy-policy.html</loc>
         <lastmod>2014-05-20T22:49:04-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.ironbattles.com/robots.txt</loc>
+        <loc>http://danielmfreitas.github.io/robots.txt</loc>
         <lastmod>2014-05-20T18:43:53-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.ironbattles.com/terms-of-use.html</loc>
+        <loc>http://danielmfreitas.github.io/terms-of-use.html</loc>
         <lastmod>2014-05-20T23:27:09-04:00</lastmod>
     </url>
 </urlset>
