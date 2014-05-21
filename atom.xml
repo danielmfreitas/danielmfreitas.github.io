@@ -4,7 +4,7 @@
   <title><![CDATA[Iron Battles]]></title>
   <link href="http://www.ironbattles.com/atom.xml" rel="self"/>
   <link href="http://www.ironbattles.com/"/>
-  <updated>2014-05-21T00:30:10-04:00</updated>
+  <updated>2014-05-21T00:33:01-04:00</updated>
   <id>http://www.ironbattles.com/</id>
   <author>
     <name><![CDATA[Daniel Freitas]]></name>
@@ -12,18 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Welcome to Iron Battles]]></title>
-    <link href="http://www.ironbattles.com/blog/2014/05/20/welcome-to-iron-battles/"/>
-    <updated>2014-05-20T18:50:32-04:00</updated>
-    <id>http://www.ironbattles.com/blog/2014/05/20/welcome-to-iron-battles</id>
-    <content type="html"><![CDATA[<h1>Test. This is a TEST!</h1>
-
-<h2>Test. This is a TEST!</h2>
-
-<h3>Test. This is a TEST!</h3>
-]]></content>
-  </entry>
   
 </feed>
