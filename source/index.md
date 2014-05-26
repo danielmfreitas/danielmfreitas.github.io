@@ -31,7 +31,7 @@ Simply put, it tracks all aspects of your battles:
    *   scenario played
    *   venue and event
    *   a nice and fun to play with interface
-   *   customize caster pictures
+   *   customizable caster pictures
    *   and a lot more...
 
 ###But it will not stop there!###
