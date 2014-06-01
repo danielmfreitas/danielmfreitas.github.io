@@ -9,10 +9,9 @@ footer: true
 ---
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
-##The definitive Warmahordes battle tracking app##
-Track every aspect of your matches, check your performance and **Know your Meta**!
+## Join the battle on June 6th 2014 ##
 
-{{ 'home_gallery_1' | image_list }}
+The alpha versin of Iron Battles releases June 6th 2014. Get ready! We need your support. To participate, just head out to our community on Google+.
 
 ##Join our Alpha test!##
 
@@ -21,6 +20,12 @@ Iron Battles is currently under development. If you'd like to participate in the
 <div class="g-community" data-href="https://plus.google.com/communities/103103676301107091838"></div>
 
 <p></p>
+
+##The definitive Warmahordes battle tracking app##
+Track every aspect of your matches, check your performance and **Know your Meta**!
+
+{{ 'home_gallery_1' | image_list }}
+
 ###What does it do?###
 
 Simply put, it tracks all aspects of your battles: 
