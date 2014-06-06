@@ -5,8 +5,6 @@ date: 2014-06-06 10:56:40 -0400
 comments: true
 categories: 
 ---
-##Iron Battles Android Application Permissions##
-
 We believe transparency is key in developing a good relationship with our users. Nothing annoys us more than applications requesting tons of permissions without any clarification whatsoever of why they need them. You will find below the reasons for each permission we request. You might as well check our [Privacy Policy](/privacy-policy.html "Iron Batles Privacy Policy").
 
  * android.permission.INTERNET: That one is kinda obvious isn't it? We do stuff online, so we need to access the Internet.
@@ -23,4 +21,4 @@ We believe transparency is key in developing a good relationship with our users.
 
  * android.permission.READ_LOGS and android.permission.GET_TASKS: This is required by our bug and crash reporting framework. We use this to track application crashes and act fast to resolve bugs.
 
-###Know Your Meta!###
+####Know Your Meta!####
