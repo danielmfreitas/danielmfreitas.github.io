@@ -9,13 +9,13 @@ footer: true
 ---
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
-## Join the battle on June 6th 2014 ##
+## Alpha test is LIVE! ##
 
-The alpha versin of Iron Battles releases June 6th 2014. Get ready! We need your support. To participate, just head out to our community on Google+.
+The alpha version of Iron Battles is live. We need your support. To participate, just head out to our community on Google+. See details below.
 
 ##Join our Alpha test!##
 
-Iron Battles is currently under development. If you'd like to participate in the Android alpha testing phase, just head to our [Iron Battles Alpha Testers](https://plus.google.com/u/1/communities/103103676301107091838) community on Google+ and you be able to install it directly from Google Play once alpha testing begins.
+Iron Battles is currently under development. If you'd like to participate in the Android alpha testing phase, just head to our [Iron Battles Alpha Testers](https://plus.google.com/u/1/communities/103103676301107091838) community on Google+ and you be able to install it directly from Google Play.
 
 <div class="g-community" data-href="https://plus.google.com/communities/103103676301107091838"></div>
 
