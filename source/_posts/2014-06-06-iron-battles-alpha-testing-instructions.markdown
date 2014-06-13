@@ -29,7 +29,7 @@ We value your feedback. This is the reason we are going through an alpha and bet
 
  * Also important: please do not post app reviews or bugs in the play store during the alpha phase. We will use a tool for that. The play store is not meant to track bugs.
 
- * If you find a bug, have suggestions or just want to provide general feedback, please head to [http://www.caravelahq.com/b/ironbatles02alpha](http://www.caravelahq.com/b/ironbatles02alpha "http://www.caravelahq.com/b/ironbatles02alpha"). This is the online utility we will use to track user feedback. You can log in with your Google account. The tracker is public and you will not need to request access. However, please fill in your name or PP forum name so we know who we are talking to :).
+ * If you find a bug, have suggestions or just want to provide general feedback, please head to [http://www.caravelahq.com/b/ironbattles02alpha](http://www.caravelahq.com/b/ironbattles02alpha "http://www.caravelahq.com/b/ironbattles02alpha"). This is the online utility we will use to track user feedback. You can log in with your Google account. The tracker is public and you will not need to request access. However, please fill in your name or PP forum name so we know who we are talking to :).
 
  * Do not enter tags on the bug editor. We will organize them.
 
